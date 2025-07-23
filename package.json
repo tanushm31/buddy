@@ -15,7 +15,10 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies": {
+		"active-win": "^8.2.1",
 		"axios": "^1.11.0",
-		"electron": "^37.2.4"
+		"clipboardy": "^4.0.0",
+		"electron": "^37.2.4",
+		"screenshot-desktop": "^1.15.1"
 	}
 }
